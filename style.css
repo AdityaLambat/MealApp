@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+
+/* Heading */
+
+#heading {
+    margin-top: 100px;
+}
+
+/* Search */
+#search-bar {
+    max-width: 600px;
+}
+
+#search-bar input {
+    height: 50px;
+    border-radius: 20px;
+}
+
+/* Navbar-Toggler-Icon */
+.container-fluid span {
+    color: black;
+}
+
+/* Card */
+#card {
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+#card img {
+    border-radius: 50%;
+}
+
+
+/* Details */
+#meal-details {
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+#meal-header {
+    width: 70%;
+    margin: auto;
+}
+
+
+#details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}
+
+#meal-recipes {
+    margin: auto;
+    justify-content: center;
+}
+
+#favourite-meal {
+    background-color: whitesmoke;
+}
+
+.btn-close {
+    background-color: white;
+}

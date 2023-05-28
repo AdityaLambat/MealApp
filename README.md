@@ -9,4 +9,4 @@ You can click on watch button to see its recipe video.
 
 It is developed using HTML5, CSS3, Boostrap 5, Font-Awesome 4, Google Fonts.
 
-Here is the link of the #MealApp, click here 
+Here is the link of the #MealApp, click here https://codersbootcamp.github.io/MealApp/

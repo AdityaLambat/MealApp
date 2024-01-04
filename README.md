@@ -21,7 +21,7 @@ https://adityalambat.github.io/MealApp/
 ````
 ## Technologies Used
 
-The IssueTracker is build using the following technologies:
+The Meal App is build using the following technologies:
 
 <p>
   <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/HTML.svg" width="50">
@@ -35,50 +35,18 @@ The IssueTracker is build using the following technologies:
 
 To set up the API on your local machine, follow these steps:
 ````
-1. Clone the repository.
-2. Install the packages using npm
-
+Clone the repository.
 ````
 
-## After reaching the project directory you have to run the following command.
+## After reaching the project directory you have to click on
 ````
- node index.js
-
+ index.html
 ````
 
 ## Folder Structure
 
 ````
-Issue Tracker
+Meal App
   ->|           
-    |---> assets --->|
-    |                |---> js --->|
-    |                             |---> filterissues.js
-    |                             |---> searchissues.js
-    |                  
-    |---> config --->|
-    |                |---> mongoose.js
-    |
-    |---> controllers --->|
-    |                     |---> home_controller.js
-    |                     |---> project_controller.js
-    |             
-    |---> models--->|
-    |               |---> issue.js
-    |               |---> project.js
-    |
-    |---> routes --->|
-    |                |---> index.js
-    |                |---> project.js
-    |
-    |---> views --->|
-    |               |---> partials --->|
-    |                                  |---> home.ejs
-    |                                  |---> layout.ejs
-    |                                  |---> project_page.ejs
-    |             
-    |---> README.md
-    |---> index.js
-    |---> package-lock.json
-    |---> package.json
+    |---> 
     ````

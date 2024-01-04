@@ -1,4 +1,4 @@
-# IssueTracker
+# Meal App
 
 <p align="justify">
   Developed the React app to search, add to favourites, view more details using a meal API https://www.themealdb.com/api.php
@@ -6,17 +6,17 @@ Implemented a responsive search functionality on the home page that dynamically 
 </p>
 
 ## Deployed On
-**Render**
+**GitHub**
+<img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Github-Dark.svg" width="50">
 
 ## Hosted Link
-https://issuretracker.onrender.com/
+https://adityalambat.github.io/MealApp/
 
 ## Features
 ````
-1. Allows users to create detailed issues, including a title, description.
-2. Assigns issues to specific team members or individuals responsible for addressing them.
-3. Tracks the status of each issue.
-4. Allows the categorization of issues with labels or tags (e.g., bug, enhancement, documentation).
+1. The app features a robust recipe search with real-time suggestions as users type, streamlining the process of discovering a diverse range of recipes.
+2. Users can easily manage and curate a list of favorite meals by utilizing the interactive 'Favorite' button associated with each search result.
+3. Clicking on a specific recipe opens a dedicated Meal Detail Page, providing detailed information such as the meal's name, a visually appealing photo, step-by-step instructions, and additional relevant details for a more immersive cooking experience.
 ````
 ## Technologies Used
 
@@ -26,9 +26,8 @@ The IssueTracker is build using the following technologies:
   <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/HTML.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
   <img src="https://github.com/AdityaLambat/skill-icons/raw/main/icons/JavaScript.svg" width="50">
-  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/React-Dark.svg" width="50">
-  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50">
-  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/MongoDB.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src=""
 </p>
 
 ## Getting Started

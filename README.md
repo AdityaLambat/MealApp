@@ -27,7 +27,7 @@ The IssueTracker is build using the following technologies:
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
   <img src="https://github.com/AdityaLambat/skill-icons/raw/main/icons/JavaScript.svg" width="50">
   <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
-  <img src=""
+  <img src="https://github.com/AdityaLambat/MealApp/blob/main/api.png" width="50">
 </p>
 
 ## Getting Started

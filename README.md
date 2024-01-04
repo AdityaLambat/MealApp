@@ -48,5 +48,10 @@ Clone the repository.
 ````
 Meal App
   ->|           
-    |---> 
+    |---> README.md
+    |---> api.png
+    |---> food-restaurant-icon.png
+    |---> index.html
+    |---> script.js
+    |---> style.css
     ````

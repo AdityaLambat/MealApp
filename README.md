@@ -1,12 +1,84 @@
-# MealApp
+# IssueTracker
 
-A SPA to search meal and to see its details and video.
+<p align="justify">
+  Developed the React app to search, add to favourites, view more details using a meal API https://www.themealdb.com/api.php
+Implemented a responsive search functionality on the home page that dynamically fetches and updates meal suggestions from the API as the user in search.
+</p>
 
-This app will help you to find any meal you wanted.
-You can mark that meal as favourite meal and it will be displayed into your favourite meal list.
-You can also watch details about the meal and can remove it from the favourite list.
-You can click on watch button to see its recipe video.
+## Deployed On
+**Render**
 
-It is developed using HTML5, CSS3, Boostrap 5, Font-Awesome 4, Google Fonts.
+## Hosted Link
+https://issuretracker.onrender.com/
 
-Here is the link of the #MealApp, click here https://codersbootcamp.github.io/MealApp/
+## Features
+````
+1. Allows users to create detailed issues, including a title, description.
+2. Assigns issues to specific team members or individuals responsible for addressing them.
+3. Tracks the status of each issue.
+4. Allows the categorization of issues with labels or tags (e.g., bug, enhancement, documentation).
+````
+## Technologies Used
+
+The IssueTracker is build using the following technologies:
+
+<p>
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/HTML.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/raw/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/MongoDB.svg" width="50">
+</p>
+
+## Getting Started
+
+To set up the API on your local machine, follow these steps:
+````
+1. Clone the repository.
+2. Install the packages using npm
+
+````
+
+## After reaching the project directory you have to run the following command.
+````
+ node index.js
+
+````
+
+## Folder Structure
+
+````
+Issue Tracker
+  ->|           
+    |---> assets --->|
+    |                |---> js --->|
+    |                             |---> filterissues.js
+    |                             |---> searchissues.js
+    |                  
+    |---> config --->|
+    |                |---> mongoose.js
+    |
+    |---> controllers --->|
+    |                     |---> home_controller.js
+    |                     |---> project_controller.js
+    |             
+    |---> models--->|
+    |               |---> issue.js
+    |               |---> project.js
+    |
+    |---> routes --->|
+    |                |---> index.js
+    |                |---> project.js
+    |
+    |---> views --->|
+    |               |---> partials --->|
+    |                                  |---> home.ejs
+    |                                  |---> layout.ejs
+    |                                  |---> project_page.ejs
+    |             
+    |---> README.md
+    |---> index.js
+    |---> package-lock.json
+    |---> package.json
+    ````
